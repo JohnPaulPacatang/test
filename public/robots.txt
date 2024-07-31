@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.cec.com.ph/
+
+# Sitemaps
+Sitemap: https://www.cec.com.ph/sitemap.xml
